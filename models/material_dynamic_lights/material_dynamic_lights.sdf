@@ -5,14 +5,34 @@
       <visual name="material_dynamic_lights_link_visual">
         <geometry>
           <box>
-            <size>0.1 0.2 0.4</size>
+            <size>0.2 0.2 0.2</size>
           </box>
         </geometry>
+        <material>
+          <lighting>true</lighting>
+        </material>
+      </visual>
+      <visual name="material_dynamic_lights_link_visual_no_lights">
+        <geometry>
+          <box>
+            <size>0.1 0.1 0.4</size>
+          </box>
+        </geometry>
+        <material>
+          <lighting>false</lighting>
+        </material>
       </visual>
       <collision name="material_dynamic_lights_link_collision">
         <geometry>
           <box>
-            <size>0.1 0.2 0.4</size>
+            <size>0.2 0.2 0.2</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="material_dynamic_lights_link_collision_no_lights">
+        <geometry>
+          <box>
+            <size>0.1 0.1 0.4</size>
           </box>
         </geometry>
       </collision>
