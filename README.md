@@ -70,8 +70,8 @@ This package contains a list of SDFormat files for testing tools that work with 
 
 * `graph_loop`
   * Three links joined by revolute joints to form a stiff triangle
-* `graph_four_bar` TODO
-  * four links joined to form a four bar linkage
+* `graph_four_bar`
+  * four links joined a loop to form a four bar linkage
 * `graph_tree` TODO
   * A tree of links with the canonical link as the root
 * `graph_tree_non_canonical_root` TODO
