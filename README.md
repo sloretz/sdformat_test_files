@@ -85,7 +85,7 @@ This package contains a list of SDFormat files for testing tools that work with 
 
 * `pose_model`
   * A model with an offset pose
-* `pose_link` TODO
+* `pose_link`
   * A link with an offset pose
 * `pose_visual_collision` TODO
   * A visual and collision with offset pose
