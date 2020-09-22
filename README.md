@@ -74,7 +74,7 @@ This package contains a list of SDFormat files for testing tools that work with 
   * four links joined a loop to form a four bar linkage
 * `graph_tree`
   * A tree of links with the canonical link as the root
-* `graph_tree_non_canonical_root` TODO
+* `graph_tree_non_canonical_root`
   * A tree of links were the canonical link is not the root
 * `graph_chain` TODO
   * A chain of links with the canonical link as the root
