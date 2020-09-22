@@ -78,7 +78,7 @@ This package contains a list of SDFormat files for testing tools that work with 
   * A tree of links were the canonical link is not the root
 * `graph_chain`
   * A chain of links with the canonical link as the root
-* `graph_chain_non_canonical_root` TODO
+* `graph_chain_non_canonical_root`
   * A chain of links were the canonical link is not the root
 
 ### Poses and Frames
