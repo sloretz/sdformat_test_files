@@ -93,5 +93,7 @@ This package contains a list of SDFormat files for testing tools that work with 
   * A collision with an offset pose
 * `pose_inertial`
   * An inertial with an offset pose
+* `pose_joint`
+  * A joint with an offset pose
 
 TODO Learn enough about frames to know what examples to make for them
