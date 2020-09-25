@@ -49,6 +49,7 @@ set(model_names
   "pose_inertial"
   "pose_joint"
   "pose_link"
+  "pose_link_all"
   "pose_model"
   "pose_visual"
 )
