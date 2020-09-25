@@ -54,6 +54,7 @@ set(model_names
   "pose_link_all"
   "pose_model"
   "pose_visual"
+  "pose_visual_in_frame"
 )
 
 foreach(model ${model_names})
