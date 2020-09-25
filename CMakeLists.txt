@@ -46,6 +46,7 @@ set(model_names
   "material_pbr"
   "material_shader"
   "pose_collision"
+  "pose_collision_in_frame"
   "pose_inertial"
   "pose_joint"
   "pose_link"
