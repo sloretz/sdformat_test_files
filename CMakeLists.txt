@@ -48,6 +48,7 @@ set(model_names
   "pose_collision"
   "pose_collision_in_frame"
   "pose_inertial"
+  "pose_inertial_in_frame"
   "pose_joint"
   "pose_link"
   "pose_link_in_frame"
