@@ -105,5 +105,7 @@ This package contains a list of SDFormat files for testing tools that work with 
   * An inertial with an offset pose specified in a frame on the model
 * `pose_joint`
   * A joint with an offset pose
+* `pose_joint_in_frame`
+  * A joint with an offset pose specified in a frame on the model
 
 TODO Learn enough about frames to know what examples to make for them
