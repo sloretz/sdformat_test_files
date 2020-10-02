@@ -83,6 +83,8 @@ This package contains a list of SDFormat files for testing tools that work with 
 
 ### Poses and Frames
 
+* `pose_chain`
+  * A model with 4 links and 3 joints in a chain all having poses with translation and rotation.
 * `pose_model`
   * A model with an offset pose
 * `pose_link`
