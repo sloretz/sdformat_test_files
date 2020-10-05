@@ -14,6 +14,8 @@ This package contains a list of SDFormat files for testing tools that work with 
   * Single link using `<mesh>` geometry with a COLLADA mesh
 * `geometry_mesh_obj`
   * Single link using `<mesh>` geometry with an OBJ mesh
+* `geometry_mesh_scaled`
+  * Single link using `<mesh>` geometry with an STL mesh scaled differently in each dimension
 * `geometry_mesh_stl`
   * Single link using `<mesh>` geometry with an STL mesh
 * `geometry_plane`

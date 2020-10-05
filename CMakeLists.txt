@@ -19,6 +19,7 @@ set(model_names
   "geometry_heightmap"
   "geometry_mesh_collada"
   "geometry_mesh_obj"
+  "geometry_mesh_scaled"
   "geometry_mesh_stl"
   "geometry_plane"
   "geometry_sphere"
