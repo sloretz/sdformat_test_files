@@ -46,6 +46,8 @@ set(model_names
   "material_ogre_script"
   "material_pbr"
   "material_shader"
+  "model_two_models"
+  "model_zero_models"
   "pose_chain"
   "pose_collision"
   "pose_collision_in_frame"
