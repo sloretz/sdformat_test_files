@@ -39,6 +39,7 @@ set(model_names
   "joint_screw"
   "joint_universal"
   "link_gravity"
+  "link_inertia"
   "link_kinematic"
   "link_self_collide"
   "material_blinn_phong"
