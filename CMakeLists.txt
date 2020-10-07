@@ -36,6 +36,7 @@ set(model_names
   "joint_prismatic"
   "joint_revolute"
   "joint_revolute2"
+  "joint_revolute_axis"
   "joint_screw"
   "joint_universal"
   "link_gravity"
