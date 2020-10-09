@@ -43,6 +43,8 @@ set(model_names
   "joint_screw"
   "joint_universal"
   "link_inertia"
+  "link_light_point"
+  "link_sensor_imu"
   "link_multiple_collisions"
   "link_multiple_visuals"
   "material_blinn_phong"
