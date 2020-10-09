@@ -39,6 +39,7 @@ set(model_names
   "joint_revolute_axis"
   "joint_revolute_axis_in_frame"
   "joint_revolute_default_limits"
+  "joint_revolute_two_joints_two_links"
   "joint_screw"
   "joint_universal"
   "link_gravity"
