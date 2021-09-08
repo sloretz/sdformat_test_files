@@ -1,5 +1,7 @@
 # SDFormat Test files
 
+**MOVED: https://github.com/ros/sdformat_urdf **
+
 This package contains a list of SDFormat files for testing tools that work with SDFormat models and worlds.
 
 ## Models
